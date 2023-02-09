@@ -1,6 +1,6 @@
 ### 以下を実行
 
-docker　compose build 
+docker compose build 
 
 docker compose up -d
 
