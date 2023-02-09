@@ -17,5 +17,7 @@ php artisan migrate
 http://localhost/todolists にアクセス
 
 ###　使い方
+
 タスクのタイトルをクリックすると、編集、削除等もできる。
+
 doneを押すと、実行されたことになり、トップページから消える
