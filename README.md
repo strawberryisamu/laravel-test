@@ -16,7 +16,7 @@ php artisan migrate
 
 http://localhost/todolists にアクセス
 
-###　使い方
+### コンテナに入ったら、test配下に移動し以下を実行
 
 タスクのタイトルをクリックすると、編集、削除等もできる。
 
