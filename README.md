@@ -1,4 +1,4 @@
-### envファイルを入れ、以下を実行
+### 以下を実行
 
 dockercompose build 
 
@@ -8,7 +8,7 @@ docker compose up -d
 
 docker-compose exec app bash
 
-### コンテナに入ったら、以下を実行
+### コンテナに入ったら、test配下に移動し以下を実行
 
 composer install 
 
